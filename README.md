@@ -3,8 +3,7 @@
 下载后将后缀修改为zip|如果不会使用请到西瓜搜索 ### 云边科技工作室 
 | 网站名称  | 网站地址  |
 | ------------ | ------------ |
-|  字幕提取 |  https://www.aliyundrive.com/s/5cuMWBL8RpX|
-
+|  字幕提取 |  https://www.aliyundrive.com/s/5cuMWBL8RpX |
 </details>
 
 - - -
