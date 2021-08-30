@@ -1,4 +1,15 @@
 <details>
+  <summary><mark><font color=darkred>点击查看详细内容</font></mark></summary>
+  <p> - 测试 测试测试</p>
+  <pre><code>  
+for i in a:
+    print(i)
+  </code></pre>
+</details>
+
+
+
+<details>
   <summary>2021-8-26:字幕制作（所用到的软件在下面的链接中）</summary> 
 1.下载后将后缀改为ZIP; <br />
 2.如果不会使用，请到西瓜视频搜索云边科技工作室，私信教你修改 <br />
