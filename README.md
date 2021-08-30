@@ -11,7 +11,7 @@
 |  奈飞星影视 |https://nfxhd.com/   |
 | CK电影部落 |https://www.ck180.net/   |
 </details>
-—————————————————————————————————
+*****
 <details>
   <summary>2021-8-24:珍藏多年的影视资源网站分享给你！收好别弄丢了</summary>
 
