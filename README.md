@@ -1,9 +1,9 @@
 <details>
-  <summary><mark><font color=darkred>点击查看详细内容</font></mark></summary>
-  <p> - 测试 测试测试</p>
+  <summary><mark><font color=darkred>2021-8-24:珍藏多年的影视资源网站分享给你！收好别弄丢了</font></mark></summary>
+  <p> - 2021-8-24:珍藏多年的影视资源网站分享给你！收好别弄丢了</p>
   <pre><code>  
-for i in a:
-    print(i)
+电影天堂   https://www.dy2018.com/ <br /> 电影先生 http://dyxs14.com/ <br />  555电影 https://www.555dy6.com/ <br />  MK影视https://www.mkvdo.com/  <br /> KK看剧 http://www.kkkanju.com/  <br /> 奈飞星影视https://nfxhd.com/  <br />  CK电影部落 https://www.ck180.net/   
+  
   </code></pre>
 </details>
 
@@ -23,8 +23,7 @@ for i in a:
 - - -
 
 <details>
-  <summary>2021-8-24:珍藏多年的影视资源网站分享给你！收好别弄丢了</summary>
+  <summary></summary>
 
- 电影天堂   https://www.dy2018.com/ <br /> 电影先生 http://dyxs14.com/ <br />  555电影 https://www.555dy6.com/ <br />  MK影视https://www.mkvdo.com/  <br /> KK看剧 http://www.kkkanju.com/  <br /> 奈飞星影视https://nfxhd.com/  <br />  CK电影部落 https://www.ck180.net/   
-  
+ 
 </details>
