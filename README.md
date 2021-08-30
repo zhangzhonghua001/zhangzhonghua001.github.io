@@ -7,14 +7,7 @@
 |  电影先生 |http://dyxs14.com/   |
 |  555电影 |https://www.555dy6.com/   |
 | MK影视|https://www.mkvdo.com/|
-|  电影先生 |http://dyxs14.com/   |
-|  电影先生 |http://dyxs14.com/   |
-|  电影先生 |http://dyxs14.com/   |
-|  电影先生 |http://dyxs14.com/   |
-|  电影先生 |http://dyxs14.com/   |
-|  电影先生 |http://dyxs14.com/   |
-|  电影先生 |http://dyxs14.com/   |
-
-
-
+|  KK看剧 |http://www.kkkanju.com/   |
+|  奈飞星影视 |https://nfxhd.com/   |
+| CK电影部落 |https://www.ck180.net/   |
 </details>
