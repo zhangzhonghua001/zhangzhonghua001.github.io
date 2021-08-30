@@ -1,5 +1,8 @@
-<details><summary>展开/收起</summary>
-```html
-fdfdsfsdf
-```
+<details>
+  <summary>点击时的区域标题</summary>
+<pre>
+
+内容
+
+</code>
 </details>
