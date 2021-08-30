@@ -5,5 +5,16 @@
 | ------------ | ------------ |
 |  电影天堂 |  https://www.dy2018.com/ |
 |  电影先生 |http://dyxs14.com/   |
+|  555电影 |https://www.555dy6.com/   |
+| MK影视|https://www.mkvdo.com/|
+|  电影先生 |http://dyxs14.com/   |
+|  电影先生 |http://dyxs14.com/   |
+|  电影先生 |http://dyxs14.com/   |
+|  电影先生 |http://dyxs14.com/   |
+|  电影先生 |http://dyxs14.com/   |
+|  电影先生 |http://dyxs14.com/   |
+|  电影先生 |http://dyxs14.com/   |
+
+
 
 </details>
