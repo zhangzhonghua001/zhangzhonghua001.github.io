@@ -6,7 +6,7 @@
   
 | 网站名称  | 网站地址  |
 | ------------ | ------------ |
-|  电影天堂 |  https://www.dy2018.com/ |
+|  字幕工具 |  https://www.aliyundrive.com/s/5cuMWBL8RpX |
 </details>
 
 - - -
